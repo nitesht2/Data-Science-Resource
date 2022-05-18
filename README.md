@@ -11,21 +11,27 @@ Programming with Mosh - 3-hour course - https://lnkd.in/gAiZwfQQ
 freeCodeCamp - 4-hour course - https://lnkd.in/gH9tYvsx
 Edureka - 4-hour tutorial - https://lnkd.in/gAwYniXM
 Kudvenkat - https://lnkd.in/gZSQbS-e
+
+
 📚 Courses
 Udacity SQL for Data Analysis - https://lnkd.in/gzsyYZs4
 Kaggle
 Intro to SQL - https://lnkd.in/gbGFuaKm
 Advanced SQL - https://lnkd.in/gpCrW74C
 Danny Ma's SQL Masterclass Course - https://lnkd.in/ge7zyWzu
+
+
 🔎 Quizzes
 SQL Murder Mystery - https://lnkd.in/gmZvA-i8
 SQL Bolt - https://sqlbolt.com/
 Select Star SQL - https://selectstarsql.com/
 W3schools - https://lnkd.in/gXyQF3eU
 SQL Zoo - https://sqlzoo.net
+
 🔎 Projects/Case Studies
 Covid-19 Project - https://lnkd.in/g8PqmFzb
 8 Week SQL Challenges - https://lnkd.in/gjucZR6T. Check out my repo for solutions: https://lnkd.in/gkaNAibU
+
 📝 Practice
 StrataScratch - https://lnkd.in/gBTMYcmm
 LeetCode - https://lnkd.in/gXv63ebx
