@@ -32,8 +32,6 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 4. **W3schools** - https://lnkd.in/gXyQF3eU
 5. **SQL Zoo** - https://sqlzoo.net
 
-***
-
 
 ***
 
