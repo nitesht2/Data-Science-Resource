@@ -34,9 +34,6 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 
 ***
 
-## 🔎 Projects/Case Studies
-1. **Covid-19 Project** - https://lnkd.in/g8PqmFzb
-2. **8 Week SQL Challenges** - https://lnkd.in/gjucZR6T. Check out my repo for solutions: https://lnkd.in/gkaNAibU
 
 ***
 
