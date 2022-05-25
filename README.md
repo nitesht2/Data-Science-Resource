@@ -1,4 +1,5 @@
 # SQL Resources
+Credit: https://github.com/katiehuangx
 
 Here's a comprehensive list of free SQL resources.
 
